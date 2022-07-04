@@ -5,7 +5,8 @@ sidebar: auto
 
 # About
 
-This is About Content
+ini paragraf di dalam about
+
 
 ## Second Header
 
